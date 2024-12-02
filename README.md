@@ -7,7 +7,7 @@
 
 - 😄 Pronouns: **He/Him/His**
 
-- 🌱 What's Llama2? **Learning**
+- 🌱 What's Llama? **Learning**
 
 - 🔭 Currently working on [Earthquake Early Warning (EEW) Project](https://ktmgeolab.org/)
 
