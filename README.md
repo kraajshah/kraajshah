@@ -1,5 +1,5 @@
-<h1 align="center">🏗️ Hello world, it's Khem</h1>
-<h3 align="center">🌍 Civil Engineer with a passion for sustainable solutions and intelligent systems.</h3>
+<h1 align="center"> 🚗✨ Hello, world! I'm Khem R Shah.</h1>
+<h3 align="center">🌍 Navigating the vibrant lanes of code, systems, and sustainability—Civil Engineer driven by a passion for sustainable solutions and intelligent systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kraajshah&label=Profile%20views&color=0e75b6&style=flat" alt="kraajshah" /> </p>
 
