@@ -19,7 +19,7 @@
 
 - 📄 Know more about me [https://www.linkedin.com/in/khemrajshah/](https://www.linkedin.com/in/khemrajshah/)
 
-- ⚡ Fun fact **I can sing like Ed Sheeran**
+- ⚡ Fun fact **I think I can sing like Ed Sheeran, but don’t take my word for it. You’ll have to endure a performance to truly appreciate how not true that is!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
