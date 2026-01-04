@@ -16,7 +16,7 @@
 
 - 📝 Explore me as blogger on [khemrajshah.com.np](khemrajshah.com.np)
 
-- 📫 Reach me at **ercoolraaj@gmail.com**
+- 📫 Reach me at **kraaj.shah@gmail.com**
 
 - 📄 Know more about me [https://www.linkedin.com/in/khemrajshah/](https://www.linkedin.com/in/khemrajshah/)
 
